@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Mallick</h1>
+<h1 align="center">Hi 👋, I'm Kunal Mallick</h1> 
 <h3 align="center">A Passionate Data Science Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif">
 
