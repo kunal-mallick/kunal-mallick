@@ -23,8 +23,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal-mallick" alt="kunal-mallick" /></a> </p>
 
-<p align="left"><a href="http://www.github.com/kunal-mallick"><img src="https://github-readme-stats.vercel.app/api?username=kunal-mallick&show_icons=true&locale=en" alt="kunal-mallick's GitHub Stats" /></a>
+<p align="center"><a href="https://github.com/kunal-mallick"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-mallick&langs_count=10&title_color=f97316&text_color=000000&icon_color=6366f1&bg_color=ffffff&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" /></a></p>
+
+<p align="center"><a href="http://www.github.com/kunal-mallick"><img src="https://github-readme-stats.vercel.app/api?username=kunal-mallick&show_icons=true&locale=en" alt="kunal-mallick's GitHub Stats" /></a>
 <a href="http://www.github.com/kunal-mallick"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-mallick&show_icons=true&locale=en" /></a></p>
 
-<p align="right"><a href="http://www.github.com/kunal-mallick"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kunal-mallick&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&custom_title=GitHub%20Commits%20Graph"
+<p align="center"><a href="http://www.github.com/kunal-mallick"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kunal-mallick&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&custom_title=GitHub%20Commits%20Graph"
 alt="GitHub Commits Graph" /></a></p>
