@@ -14,7 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal mallick" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kunal mallick" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &emsp;
+  <a href="kunalmallicks3@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a> &emsp;
+<a href="https://api.whatsapp.com/send/?phone=%2B919934322784&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a>
 </p>
 
 
