@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [**Book Recommendation System(book.io)**](https://book-recommendation.streamlit.app/)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Any ML / DL Model, Data Preprocessing & EDA, Feature Engineering & Feature Extraction, Local / Server Deployment, etc.**
 
