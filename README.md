@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-mallick&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-mallick" /> </p>
 
-- 🔭 I’m currently working on [**Book Recommendation System(book.io)**](https://book-recommendation.streamlit.app/)
+- 🔭 I’m currently working on [**Anime Recommendation System(book.io)**](https://book-recommendation.streamlit.app/)
 
 - 🌱 I’m currently learning **Generative AI**
 
